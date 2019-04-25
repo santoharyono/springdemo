@@ -12,9 +12,7 @@
 	<artifactId>springdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springdemo</name>
-	<description>Demo project for Spring Boot</description>
-
-<!-- Add reporting plugin -->
+	<description>Demo project for Spring Boot and CI</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -45,7 +43,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-
 	</dependencies>
 
 	<build>
